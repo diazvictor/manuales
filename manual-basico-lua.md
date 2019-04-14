@@ -30,8 +30,7 @@ lenguajes de programación pueden ser demasiado difíciles para empezar, debido 
 para que un programa pueda ejecutarse, haciéndolos posiblemente puntos de partida un tanto difíciles.
 
 Lua, en cambio, es un lenguaje mucho más sencillo de aprender y que puede ser un mejor punto de partida, debido a que necesita 
-menos líneas de código para poder funcionar. Para ello vamos a mostrar el código de una frase terminada con una variable 
-numérica en tres lenguajes diferentes.
+menos líneas de código para poder funcionar. Para ello vamos a mostrar el código de una frase en tres lenguajes diferentes.
 
 "Hola Mundo" en C++:
 
